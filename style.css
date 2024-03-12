@@ -1,0 +1,48 @@
+
+
+
+:root{
+
+    text-align: center;
+}
+
+
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+
+h1{
+    font-size: 200px;
+}
+
+h2{
+    font-size: 90px;
+}
+
+p{
+    font-size: 40px;
+}
+
+.text-wrapper{
+    padding: 5%;
+}
+
+.parallax-1{
+    background: url("./assets/christian-lue-b4kKyX0BQvc-unsplash.jpg") no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+}
+.parallax-2{
+    background: url("./assets/neom-TA5hw14Coh4-unsplash.jpg") no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+}
+
+.parallax-inner{
+    padding: 10%;
+}
